@@ -6,3 +6,15 @@ The lid has a debossed NOBO logo. The material at the letter "O" is thinner, so 
 
 https://github.com/csabigee/nobo-enclosure/assets/96885207/65b07594-4dd9-4122-a642-8ef6a97761e3
 
+Links:
+------------------------
+ 
+[:mag: Reverse engineering the protocol :mag_right:](https://github.com/csabigee/nobo/wiki/Home)
+
+[:hammer_and_wrench: Building the custom thermostat :hammer_and_wrench:](https://www.hackster.io/csabigee/nobo-wireless-thermostat-01f106)
+
+[:zap: PCB design files :zap:](https://github.com/csabigee/nobo-pcb)
+
+[:gift: Enclosure design files :gift:](https://github.com/csabigee/nobo-enclosure)
+
+[:octocat: Software sources :octocat:](https://github.com/csabigee/nobo)
